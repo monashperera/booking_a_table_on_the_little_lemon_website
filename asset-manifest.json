@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/booking_a_table_on_the_little_lemon_website/static/css/main.66fbd5b4.css",
-    "main.js": "/booking_a_table_on_the_little_lemon_website/static/js/main.6e8efd71.js",
+    "main.js": "/booking_a_table_on_the_little_lemon_website/static/js/main.9fc87246.js",
     "static/js/488.3321905f.chunk.js": "/booking_a_table_on_the_little_lemon_website/static/js/488.3321905f.chunk.js",
     "static/media/about-page-2.webp": "/booking_a_table_on_the_little_lemon_website/static/media/about-page-2.28089a81ea6ae60db564.webp",
     "static/media/Logo .svg": "/booking_a_table_on_the_little_lemon_website/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
@@ -55,11 +55,11 @@
     "static/media/cake.webp": "/booking_a_table_on_the_little_lemon_website/static/media/cake.83ea157c9982042d23d8.webp",
     "index.html": "/booking_a_table_on_the_little_lemon_website/index.html",
     "main.66fbd5b4.css.map": "/booking_a_table_on_the_little_lemon_website/static/css/main.66fbd5b4.css.map",
-    "main.6e8efd71.js.map": "/booking_a_table_on_the_little_lemon_website/static/js/main.6e8efd71.js.map",
+    "main.9fc87246.js.map": "/booking_a_table_on_the_little_lemon_website/static/js/main.9fc87246.js.map",
     "488.3321905f.chunk.js.map": "/booking_a_table_on_the_little_lemon_website/static/js/488.3321905f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66fbd5b4.css",
-    "static/js/main.6e8efd71.js"
+    "static/js/main.9fc87246.js"
   ]
 }
