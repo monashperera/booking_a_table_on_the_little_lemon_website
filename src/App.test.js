@@ -1,8 +1,10 @@
 import { render, screen } from '@testing-library/react';
-import App from './App';
+import { BrowserRouter } from 'react-router';
+import Home from './pages/Home';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+test('renders Reserve table button', async  () => {
+  render(<><BrowserRouter><Home /></BrowserRouter></>);
+  const buttonElement = await screen.findByText(/Reserve a Table/i);
+  expect(buttonElement).toBeInTheDocument();
+
 });
